@@ -1,14 +1,26 @@
-layout_spectrum: 0.02098463
-typography_spectrum: 0.2227682
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4336918
 color:
   saturation: 0.4960716
-  lightness: 0.8840645
   brandStrength: 0.981182
-  rhythmicContrast: 0.06568156
+  lightness: 0.8840645
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#BDCFCE'
+    - '#382F3A'
+    - '#776566'
+    - '#C7906E'
+    - '#ACDF43'
+  rhythmicContrast: 0.06568156
+layout_spectrum: 0.02098463
 name: Blackmarket
