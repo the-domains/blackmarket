@@ -1,0 +1,14 @@
+layout_spectrum: 0.02098463
+typography_spectrum: 0.2227682
+color:
+  saturation: 0.4960716
+  lightness: 0.8840645
+  brandStrength: 0.981182
+  rhythmicContrast: 0.06568156
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Blackmarket
